@@ -104,8 +104,8 @@ python -m pytest tests/ -v
 
 ## 许可证
 
-本项目仅供个人学习和合法使用。请遵守当地法律法规。
+本项目采用 [MIT License](LICENSE) 开源。
 
 ## 作者
 
-Cymaple
+**Cymaple** — [github.com/cymaple-cyber](https://github.com/cymaple-cyber)
